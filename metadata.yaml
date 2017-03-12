@@ -1,5 +1,5 @@
 _repo: Divine-Comedy-Cary-s-Translation-Purgatory_1006
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Cary, Henry Francis
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3622'
     url: http://www.gutenberg.org/2009/agents/3622
     wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dante Alighieri
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1006#Divine-Comedy-Cary-s-Translation-Purgatory
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2004-08-06'
 gutenberg_type: Text
